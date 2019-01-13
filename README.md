@@ -2,6 +2,17 @@
 
 This is a test assignment for an interview process for RTL
 
+## Environment setup
+
+In order for things to function properly on localhost env you need to create .env file like it follows:
+
+```
+#env
+NODE_PATH='src/'
+```
+
+> .env
+
 ## Available Scripts
 
 In the project directory, you can run:
